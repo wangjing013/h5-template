@@ -71,6 +71,7 @@ export default {
     ],
     '@nuxtjs/composition-api/module',
     '@nuxtjs/device',
+    '@nuxt/postcss8',
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
